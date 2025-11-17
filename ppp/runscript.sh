@@ -4,7 +4,7 @@
 ##    - automate rebuilding container when there is an update in fre-cli
 ##    - checks for the status of the workflow (before installation step)
 
-# Initialize ppp-setup
+## Initialize ppp-setup
 ## Set environment variables 
 export TMPDIR=/mnt/temp
 export HOME=/mnt
